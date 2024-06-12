@@ -13,9 +13,9 @@
     "title": "Studio MONACA"
   },
   "legend": {
-    "edgeLabel": "Edge description",
-    "colorLabel": "Category",
-    "nodeLabel": "Node description"
+    "edgeLabel": "connection between composers and soundtracks",
+    "colorLabel": "green = vgm, blue = anime, pink = live action",
+    "nodeLabel": "composer or soundtrack"
   },
   "features": {
     "search": true,
