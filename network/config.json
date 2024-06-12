@@ -8,9 +8,9 @@
     "text": "Mattia Merlini"
   },
   "text": {
-    "more": "Prova Monaca 2005-2023",
-    "intro": "Prova Monaca\t",
-    "title": "Monaca"
+    "more": "A simple graph showcasing connections in the music productions of Studio MONACA (2005-2023). Video game music in green, anime in blue (dark for series, light for films), live action in pink (dark for films, light for series).",
+    "intro": "MONACA - Anime and VGM production 2005-2023",
+    "title": "Studio MONACA"
   },
   "legend": {
     "edgeLabel": "Edge description",
